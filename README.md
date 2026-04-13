@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Juno
-- 👀 I’m interested in crafting elegant and user-friendly iOS applications that enhance user's experience.
-- 💞️ I’m looking to collaborate on innovative iOS projects that leverage the latest technologies and push the boundaries of what's possible in the app development.
+- 👀 I’m an AI developer with a strong background in iOS development, passionate about building intelligent, user-friendly applications that deliver exceptional user experiences.
+- 📱 With experience in crafting elegant iOS apps, I now focus on integrating AI and machine learning to create smarter, more personalized mobile and software solutions.
+- 🔍 My interests include generative AI, on-device ML, and designing seamless interactions between humans and intelligent systems.
+- 💞️ I’m looking to collaborate on innovative projects that combine AI with modern app development to push the boundaries of what’s possible.
 - 📫 You can reach me through my LinkedIn account.
 
 <!---
